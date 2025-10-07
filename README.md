@@ -59,13 +59,13 @@ Below are the key tables and relationships:
 
 ## ⚙️ Technologies Used
 
-| Component | Technology |
-|------------|-------------|
-| Language | Java (JDK 17 or above recommended) |
-| Database | MySQL |
-| Connectivity | JDBC |
-| IDE | Eclipse IDE |
-| Version Control | Git & GitHub |
+|     Component    |    Technology    |
+|------------------|------------------|
+| Language         | Java (JDK 17 or above recommended) |
+| Database         | MySQL |
+| Connectivity     | JDBC |
+| IDE              | Eclipse IDE |
+| Version Control  | Git & GitHub |
 
 ---
 
@@ -73,7 +73,7 @@ Below are the key tables and relationships:
 
 rideTracker/
 │
-├── src/com/anudip/project/ridetrack/
+├── ridetrack/
 │   ├── RevTrackProject.java        # Main class with menu navigation
 │   ├── RiderManager.java           # Handles CRUD for Rider
 │   ├── BikeManager.java            # Handles CRUD for Bike
